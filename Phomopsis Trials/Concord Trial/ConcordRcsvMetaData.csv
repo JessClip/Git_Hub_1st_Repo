@@ -1,0 +1,9 @@
+,Metadata
+Block,5 blocks in the Randomized Complete Block design to capture field variablity
+Trt,"Treatments: 1 - Abound low rate, 2 - Abound high rate, 3 - Sovran low rate, 4- Sovran high rate, 5 standard fungicide(pos. control), 6 - Water check (neg. control)"
+LeafInc,Percent of leaves with phomopsis infection
+LeafSev,Percent of area of leaves with phomopsis infection determined from Barratt Horsfall Scale
+NodeInc,Percent of nodes with phomopsis infection
+NodeSev,Percent of area of nodes  with phomopsis infection  determined from Barratt Horsfall Scale
+ClusterInc,Percent of clusters with phomopsis infection
+ClusterSev,Percent of area of clusters with phomopsis infection  determined from Barratt Horsfall Scale
